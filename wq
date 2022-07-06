@@ -1,0 +1,42 @@
+[33mcommit 3e9125bd89ceae8b8db8ea91d9e6eb4cd0de9f0d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Shivam Gupta <shivamgupta96900@gmail.com>
+Date:   Tue Jul 5 19:21:52 2022 +0530
+
+    day 03
+
+[33mcommit 87d55d3094d83e81e54e8bb6727df03cb6900585[m
+Merge: fe7b141 a6586f3
+Author: Shivam Gupta <shivamgupta96900@gmail.com>
+Date:   Tue Jul 5 19:20:38 2022 +0530
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit fe7b141a14012a9195d202921d398ad9ea709726[m
+Author: Shivam Gupta <shivamgupta96900@gmail.com>
+Date:   Mon Jul 4 21:26:05 2022 +0530
+
+    ..
+
+[33mcommit a6586f337b4c208e4778f4e68bc24c5e17fc4110[m
+Author: Shivam Gupta <shivamgupta96900@gmail.com>
+Date:   Mon Jul 4 21:14:07 2022 +0530
+
+    Readme created
+
+[33mcommit eded81245625726cb187c4f69e931533b92c18d6[m
+Author: Shivam Gupta <shivamgupta96900@gmail.com>
+Date:   Mon Jul 4 21:11:53 2022 +0530
+
+    .
+
+[33mcommit 019de91834a2f210a82655b2443b0533c487a766[m
+Author: Shivam Gupta <shivamgupta96900@gmail.com>
+Date:   Mon Jul 4 21:10:52 2022 +0530
+
+    .
+
+[33mcommit 25e4a74cf2a776e2d050510a5e68c93b9a536260[m
+Author: Shivam Gupta <shivamgupta96900@gmail.com>
+Date:   Mon Jul 4 21:07:46 2022 +0530
+
+    Initial commit
